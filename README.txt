@@ -64,7 +64,7 @@ J(W) = |R^T*W- r_p| + |W^T*\Sigma*W -  \sigma_p^2| + \sum_ia_i
 
 W         -- weight vector
 R         -- return vector
-\sigma    -- covariance matrix
+\Sigma    -- covariance matrix
 r_p       -- return on the original frontier
 \sigma_p  -- volatility on the original frontier
 a_i       -- trading cost for fund i
